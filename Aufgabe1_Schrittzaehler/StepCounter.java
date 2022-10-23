@@ -1,4 +1,4 @@
-package Schrittzähler;
+package Aufgabe1_Schrittzaehler;
 public class StepCounter{
     
     int schritte;
