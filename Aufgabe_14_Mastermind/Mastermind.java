@@ -1,4 +1,4 @@
-package Aufgabe14_Mastermind;
+package Aufgabe_14_Mastermind;
 
 public class Mastermind {
     public static final int RED = 0;

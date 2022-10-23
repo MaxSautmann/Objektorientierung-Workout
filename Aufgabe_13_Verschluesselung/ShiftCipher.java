@@ -1,4 +1,4 @@
-package Aufgabe13_Verschluesselung;
+package Aufgabe_13_Verschluesselung;
 
 public class ShiftCipher {
     private int schluessel;

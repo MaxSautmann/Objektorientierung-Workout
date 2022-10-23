@@ -7,11 +7,11 @@ import Aufgabe6_Fernbedienung.Fernbedienung;
 import Aufgabe7_Stoppuhr.StopWatch;
 import Aufgabe8_Druckerwarteschlange.PrinterQueue;
 import Aufgabe9_TicTacToe.TicTacToe;
-import Aufgabe10_Zwischenablage.Zwischenablage;
-import Aufgabe11_Temperaturgraph.TemperatureGraph;
-import Aufgabe12_AmbientLight.AmbiLight;
-import Aufgabe13_Verschluesselung.ShiftCipher;
-import Aufgabe14_Mastermind.Mastermind;
+import Aufgabe_10_Zwischenablage.Zwischenablage;
+import Aufgabe_11_Temperaturgraph.TemperatureGraph;
+import Aufgabe_12_AmbientLight.AmbiLight;
+import Aufgabe_13_Verschluesselung.ShiftCipher;
+import Aufgabe_14_Mastermind.Mastermind;
 
 import java.util.Scanner;
 

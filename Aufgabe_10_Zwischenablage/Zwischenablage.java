@@ -1,4 +1,4 @@
-package Aufgabe10_Zwischenablage;
+package Aufgabe_10_Zwischenablage;
 
 public class Zwischenablage {
     private String[] zwischenablage;

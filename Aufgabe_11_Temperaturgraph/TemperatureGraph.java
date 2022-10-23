@@ -1,4 +1,4 @@
-package Aufgabe11_Temperaturgraph;
+package Aufgabe_11_Temperaturgraph;
 
 public class TemperatureGraph {
     private int[] temperaturen;

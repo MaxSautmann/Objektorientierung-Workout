@@ -1,4 +1,4 @@
-package Aufgabe12_AmbientLight;
+package Aufgabe_12_AmbientLight;
 
 import java.awt.*;
 
